@@ -1,0 +1,15 @@
+{
+  "modules": {
+    "muutujad": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    }
+  },
+  "general": {
+    "pages": [
+      "muutujate-teooria"
+    ],
+    "slides": []
+  }
+}
